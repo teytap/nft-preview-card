@@ -82,6 +82,7 @@ hr {
 }
 .coderName {
   color: white;
+  text-decoration: none;
 }
 .coder {
   align-self: center;
